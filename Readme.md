@@ -1,9 +1,11 @@
 # Osris Topology Graph Dataset
+##Python
 
 <details>
-##Python
-```
-<details>
+<summary>click</summary>
+
+```python
+
 import argparse
 import os
 import re
@@ -345,9 +347,11 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-</details>
 ```
+</details>
+
+
+
 
 
 ## How To Run

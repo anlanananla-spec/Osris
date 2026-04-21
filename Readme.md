@@ -1,5 +1,6 @@
 # Osris Topology Graph Dataset
 
+<details>
 ##Python
 ```
 <details>
@@ -346,7 +347,7 @@ if __name__ == "__main__":
     main()
 
 </details>
-
+```
 
 
 ## How To Run
